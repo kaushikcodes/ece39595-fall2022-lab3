@@ -17,6 +17,7 @@ A Scrum Master usually heads the Agile development team. They support the produc
 On the other hand, a Product Owner manages the backlog of a project and ensures that the company enhances the value that it gains from the product.
 
 (c)
+
  1. Sprint Planning Meeting:
 
 - Determine what to complete in the coming sprint
@@ -31,3 +32,13 @@ On the other hand, a Product Owner manages the backlog of a project and ensures 
 
 - Occurs at the end of the sprint
 - Discuss work complete and move incomplete work to backlog
+
+(d)
+
+Epics usually represent either topics or overriding goals, which are then broken down into Stories and Tasks.
+
+Stories are used to plan big projects, which are going to be part of multiple sprints and with multiple tasks and employees. 
+
+Tasks are single to-do steps to complete. THey are normally planned an assigned to a single employee within a specific sprint. 
+
+Bugs are pieces of work that indicate a malfunction in a software that needs to be resolved. 
