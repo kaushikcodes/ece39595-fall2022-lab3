@@ -1,3 +1,17 @@
+(a) 
+Pros: 
+
+Agile development allows for continuous development and improvement of a project.
+
+It also enhances the ease of collaboration in a project of considerable size. 
+
+Cons:
+
+It tends to be harder to predict the potential issues as the project is continually developing.
+
+It is often more difficult to assign a particular goal for individual teams.
+
+(b)
 A Scrum Master usually heads the Agile development team. They support the product owner by offering relevant updates. 
 
 On the other hand, a Product Owner manages the backlog of a project and ensures that the company enhances the value that it gains from the product.
