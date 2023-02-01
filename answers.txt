@@ -41,4 +41,4 @@ Stories are used to plan big projects, which are going to be part of multiple sp
 
 Tasks are single to-do steps to complete. THey are normally planned an assigned to a single employee within a specific sprint. 
 
-Bugs are pieces of work that indicate a malfunction in a software that needs to be resolved. 
+Bugs are pieces of work that indicate a malfunction in a software that need to be resolved. 
