@@ -15,3 +15,19 @@ It is often more difficult to assign a particular goal for individual teams.
 A Scrum Master usually heads the Agile development team. They support the product owner by offering relevant updates. 
 
 On the other hand, a Product Owner manages the backlog of a project and ensures that the company enhances the value that it gains from the product.
+
+(c)
+ 1. Sprint Planning Meeting:
+
+- Determine what to complete in the coming sprint
+- Move stories in sprint scope from backlog to current sprint
+
+2. Daily Scrum/Standup Meeting:
+
+- Short meeting that happens every day of the sprint
+- Team members discuss work completed, work plan for the day and any blockers
+
+3. Sprint Retrospective Meeting:
+
+- Occurs at the end of the sprint
+- Discuss work complete and move incomplete work to backlog
